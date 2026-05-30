@@ -213,10 +213,12 @@ feel free to submit a pull request or open an issue.
 
 ---
 
-Built for the Edge AI community ❤️
-
----
-
 ## 📄 License
 
 This project is licensed under the **Apache License 2.0** - see the [LICENSE](LICENSE) file for details.
+
+---
+
+Built for the Edge AI community ❤️
+
+---
